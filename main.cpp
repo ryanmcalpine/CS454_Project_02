@@ -1,5 +1,5 @@
 //
-// by x_, Ryan McAlpine, and Rommel Ravanera
+// by Diana Arce-Hernandez, Ryan McAlpine, and Rommel Ravanera
 //
 
 #include <iostream>
