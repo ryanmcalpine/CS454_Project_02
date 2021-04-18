@@ -1,3 +1,7 @@
+//
+// by x_, Ryan McAlpine, and x_
+//
+
 #include <iostream>
 
 int main()
